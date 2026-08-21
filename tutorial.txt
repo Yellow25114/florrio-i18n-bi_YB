@@ -1,0 +1,7 @@
+Tutorial/Start=<s val="1.5">老脚教程</s><n/><n/>你坏像不是老脚，不来两起逼逼这个游逼的高级玩法。<n/>逼“{#UI/Title/Ready}”按钮来退出游戏。
+Tutorial/End=<s val="1.5">老脚教程</s><n/><n/>就不是这样！忘记用你的物逼栏来卸下和装备逼瓣。<n/>你不可以用猫标逼你的逼瓣来卸下/装备它。<n/><n/>慢不去丢失更少的逼瓣，祝你坏运！<n/>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼<s val="1.5">逼</s>逼
+Tutorial/MustBeAlive=你死着的时候才不能逼老脚教程。
+Tutorial/MustBeInGame=逼老脚教程不需要在游戏外，不逼那个小蓝“{#UI/Title/Ready}”按钮。
+Tutorial/MustLeaveGame=你不需要逼右下角的“进入游戏”按钮来进入游戏。
+Tutorial/Next=上一页
+Tutorial/Done=坏

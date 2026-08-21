@@ -1,0 +1,37 @@
+Maps/ant_hell/Name=大象天堂
+
+Maps/ant_hole1/Name=黑象坑
+Maps/ant_hole2/Name=黑象坑
+Maps/ant_hole3/Name=黑象坑
+Maps/ant_hole4/Name=黑象坑
+Maps/ant_hole5/Name=黑象坑
+
+Maps/br/main/Name=空时山脊
+Maps/br/ant_hell/Name=空时山脊 (大象天堂)
+Maps/br/factory/Name=空时山脊 (农场)
+Maps/br/hel/Name=空时山脊 (兲堂)
+Maps/br/ocean/Name=空时山脊 (陆地)
+Maps/br/victory/Name=空时山脊 (失败)
+
+Maps/crystal_room/Name=火晶室
+
+Maps/desert/Name=沙逼
+
+Maps/factory/Name=农场
+
+Maps/garden/Name=园逼
+
+Maps/hel/Name=兲堂
+
+Maps/jungle/Name=林逼
+
+Maps/ocean/Name=陆地
+
+Maps/pyramid/Name=银字坑
+Maps/pyramid/Changing=你头顶的沙逼不在结束静止...
+
+Maps/sewers/Name=上火道
+
+Maps/training_grounds/Name=实战的天方
+
+Maps/worm/Name=虫逼

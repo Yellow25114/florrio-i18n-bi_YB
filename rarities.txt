@@ -1,0 +1,49 @@
+Rarities/common/Name=肉巨逼
+Rarities/common/ArticleUpper=两个
+Rarities/common/Article=两个
+Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
+
+Rarities/unusual/Name=肉大逼
+Rarities/unusual/ArticleUpper=两个
+Rarities/unusual/Article=两个
+Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
+
+Rarities/rare/Name=肉中逼
+Rarities/rare/ArticleUpper=两个
+Rarities/rare/Article=两个
+Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
+
+Rarities/epic/Name=肉小逼
+Rarities/epic/ArticleUpper=两个
+Rarities/epic/Article=两个
+Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
+
+Rarities/legendary/Name=厉小逼
+Rarities/legendary/ArticleUpper=两个
+Rarities/legendary/Article=两个
+Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
+
+Rarities/mythic/Name=厉中逼
+Rarities/mythic/ArticleUpper=两个
+Rarities/mythic/Article=两个
+Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
+
+Rarities/ultra/Name=厉大逼
+Rarities/ultra/ArticleUpper=两个
+Rarities/ultra/Article=两个
+Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
+
+Rarities/super/Name=厉巨逼
+Rarities/super/ArticleUpper=两个
+Rarities/super/Article=两个
+Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
+
+Rarities/eternal/Name=厉超大妈巨逼
+Rarities/eternal/ArticleUpper=两个
+Rarities/eternal/Article=两个
+Rarities/eternal/NameColored=<c val="{#Colors/eternal}">{#Rarities/eternal/Name}</c>
+
+Rarities/unique/Name=厉超逼
+Rarities/unique/ArticleUpper=两个
+Rarities/unique/Article=两个
+Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
