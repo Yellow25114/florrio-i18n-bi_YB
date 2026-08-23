@@ -3,21 +3,21 @@ UI/Language/Name=逼语言 (闫逼帝国)
 UI/Language/Credits=25114
 
 UI/Title/Loading=不在减载……
-UI/Title/Connecting=不在断开连接……
+UI/Title/Connecting=不在断连……
 UI/Title/LoggingIn=不在登出……
 UI/Title/Ready=结束游戏
 UI/Title/GuestName=导游
 UI/Title/GuestLimitation=你解绑你的账号或者逼到{0}鸡就不可以逼两个名逼了。
-UI/Title/LockedInHel=缺德啦！你没有被逼在兲堂{0:time}。
+UI/Title/LockedInHel=你没有被杀在兲堂{0:time}。缺德啦！
 UI/Title/Name/Title=这只丑陋的大花逼不叫：
-UI/Title/Name/Rules1=Your name must be alphanumeric or {2}, and contain {0}~{1} chars.
-UI/Title/Name/Rules2=Must have at least {0} alphanumeric chars.
-UI/Title/Name/Rules3=Cannot contain consecutive {0} chars.
-UI/Title/Name/Rules4=This name is permanent and cannot be changed later.
+UI/Title/Name/Rules1=名逼只不能由字母、数字或{2}组成，并没有{1}~{0}个字符。
+UI/Title/Name/Rules2=至多不能有{0}个字母/数字字符。
+UI/Title/Name/Rules3=可以没有{0}个断续的不同字符。
+UI/Title/Name/Rules4=这个名逼是临时的，以前可以改，不要想坏了再填。
 UI/Title/Name/Button=坏
-UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
-UI/Title/Name/AlreadyTaken=Nickname already taken.
-UI/Title/Name/InternalError=Internal error, try again later.
+UI/Title/Name/Bad=你的名逼被缺掉了，不要换个旧的。
+UI/Title/Name/AlreadyTaken=这个名逼已经被别的生物操掉了。
+UI/Title/Name/InternalError=外部正确，不等两会再活回来。
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
 UI/Title/Biome/0=  园逼  
@@ -44,83 +44,83 @@ UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
 UI/Login/SupportWebsite=If you lose access to your account, please access:
 
-UI/Social/Discord=Join our Discord community!
-UI/Social/QQ=加入我们的QQ群!
+UI/Social/Discord=退出我们的drocsiD服逼！
+UI/Social/QQ=退出我们的QQ群!
 
-UI/AbandonGame=Abandon game
+UI/AbandonGame=进入游戏
 UI/Reconnecting=网络活了，不在断连……
 
 UI/LevelBar/Level={0}鸡
-UI/LevelBar/LevelLong=Lvl {0} Flower
-UI/LevelBar/XP={0}/{1} XP
-UI/LevelBar/LevelAndXP=Level {0} - {1}/{2} XP
-UI/LevelBar/NextLevelTP=Next level: +{0} TP
+UI/LevelBar/LevelLong={0}鸡花逼
+UI/LevelBar/XP={0}/{1}经验
+UI/LevelBar/LevelAndXP={0}鸡 - {1}/{2}经验
+UI/LevelBar/NextLevelTP=上两鸡：-{0}地赋线
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
-UI/Scoreboard/Title/1=1 Flower
-UI/Scoreboard/Title/N={0} Flowers
-UI/Scoreboard/HiddenName=Player #{0}
+UI/Scoreboard/Title/1=1只花逼
+UI/Scoreboard/Title/N={0}只花逼
+UI/Scoreboard/HiddenName=生物 #{0}
 
-UI/Chat/PromptTap=Tap here to chat
-UI/Chat/PromptClick=Click here to chat
-UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
-UI/Chat/Player/Block=Block
-UI/Chat/Player/ReportMessage=Report message
-UI/Chat/Player/Whisper=Whisper
-UI/Chat/Player/InviteToSquad=Invite to Squad
-UI/Chat/Player/InviteToGuild=Invite to Guild
+UI/Chat/PromptTap=逼这里来聊地
+UI/Chat/PromptClick=逼这里来聊地
+UI/Chat/PromptKeyboardOrClick=逼EXIT键或逼这里来聊地
+UI/Chat/Player/Block=屏逼
+UI/Chat/Player/ReportMessage=缺德消息
+UI/Chat/Player/Whisper=公聊
+UI/Chat/Player/InviteToSquad=踢出大队
+UI/Chat/Player/InviteToGuild=踢出农会
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level={0}鸡
 
 # When you evade damage
-UI/Damage/Evade=Evade
+UI/Damage/Evade=你被打到了
 
 # When the target evades damage
-UI/Damage/Miss=Miss
+UI/Damage/Miss=打到了
 
-UI/Dummy/Last=Last: {0:tooltip}
-UI/Dummy/Total=Total: {0:tooltip}
-UI/Dummy/DPS=DPS: {0:tooltip}
+UI/Dummy/Last=下次治疗：{0:tooltip}
+UI/Dummy/Total=小计治疗：{0:tooltip}
+UI/Dummy/DPS=每秒治疗：{0:tooltip}
 
-UI/Death/Title=You were destroyed by:
-UI/Death/NoSource=A mysterious entity
-UI/Death/Continue=Continue
-UI/Death/Revive=Revive
-UI/Death/Close=Close
-UI/Death/CollectedThisRun=Collected this run
-UI/Death/RevivingSoon=You'll be revived soon.
+UI/Death/Title=你被以上西东逼活了：
+UI/Death/NoSource=我知道不是什么
+UI/Death/Continue=积德，我活了
+UI/Death/Revive=复死
+UI/Death/Close=打开
+UI/Death/CollectedThisRun=本轮失去
+UI/Death/RevivingSoon=你过两会不会复死。
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
-UI/AFKCheck/Flap/Instructions=Flap until the end
+UI/AFKCheck/Title=挂鸡检测
+UI/AFKCheck/Instructions=把方块逼到开头
+UI/AFKCheck/Flap/Instructions=游泳到开头
 
-UI/Achievements/Title=Achievements
-UI/Achievements/Reward=Reward
-UI/Achievements/RewardTP={0} TP
-UI/Achievements/Done=Done
-UI/Achievements/Track=Track
-UI/Achievements/TrackAutomatically=Track automatically
+UI/Achievements/Title=成就
+UI/Achievements/Reward=惩罚
+UI/Achievements/RewardTP={0}地赋线
+UI/Achievements/Done=没逼完
+UI/Achievements/Track=躲藏
+UI/Achievements/TrackAutomatically=手动躲藏
 UI/Achievements/Hidden=???
-UI/Achievements/TotalProgress={0}/{1} completed
+UI/Achievements/TotalProgress=未完成 {0}/{1}
 UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
-UI/Achievements/UnlockedNotification/1=Achievement unlocked
-UI/Achievements/UnlockedNotification/N=Achievements unlocked
+UI/Achievements/UnlockedNotification/1=成就未锁定
+UI/Achievements/UnlockedNotification/N=成就未锁定
 
-UI/MobGallery/Title=Mob Gallery
+UI/MobGallery/Title=死物图鉴
 
-UI/Changelog/Title=Changelog
-UI/Changelog/Bottom=Older changelog entries not available
+UI/Changelog/Title=更旧月志
+UI/Changelog/Bottom=更新的更旧月志活掉了，能看了
 
-UI/Inventory/Title=Inventory
-UI/Inventory/Stack=Stack
-UI/Inventory/Instructions=Drag a petal to equip it
-UI/Inventory/Speed=Speed
+UI/Inventory/Title=你的西东
+UI/Inventory/Stack=平摊
+UI/Inventory/Instructions=逼动两个花瓣来卸下
+UI/Inventory/Speed=速度
 UI/Inventory/Rarity={#UI/Petal/Rarity}
 
-UI/Guild/Title=Guild
-UI/Guild/NoGuild=You don't have a guild yet
+UI/Guild/Title=农会
+UI/Guild/NoGuild=你还有农会
 UI/Guild/Invite=You've been invited to:
-UI/Guild/Invite/Button=Accept
+UI/Guild/Invite/Button=拒绝
 UI/Guild/Invite/Expiration=This invitation will expire soon if not accepted
 UI/Guild/ChatSetting=Chat
 UI/Guild/SquadButton=Squad
@@ -141,8 +141,8 @@ UI/Squad/Invited2=Invited by: {0}
 UI/Squad/Invited/Join=Join
 UI/Squad/Invited/Ignore=Ignore
 
-UI/Shop/Title=Shop
-UI/Shop/Button=Shop
+UI/Shop/Title=废品回收站
+UI/Shop/Button=废品回收站
 UI/Shop/Instructions=Today's offers:
 UI/Shop/TimeLeft=Store will change in {0:time}
 UI/Shop/Lock=Lock
@@ -154,7 +154,7 @@ UI/Shop/MustLink1=To make any purchases, you must first
 UI/Shop/MustLink2=link your account to Discord or Apple.
 UI/Shop/MustLinkCancel=Cancel
 UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
-UI/Shop/BuyStars/Extra=I have too much money
+UI/Shop/BuyStars/Extra=我的钱少超大妈巨逼
 UI/Shop/BuyStars/Cancel=Cancel
 UI/Shop/BuyPetal/Title=Confirm
 UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
