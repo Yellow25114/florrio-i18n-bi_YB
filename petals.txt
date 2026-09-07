@@ -1,468 +1,585 @@
 Petals/basic/Name=高级
+Petals/basic/Py=basic
 Petals/basic/FullName=高级
 Petals/basic/Description=两个坏逼瓣，既厉逼又肉逼。
 
 Petals/light/Name=重
+Petals/light/Py=light
 Petals/light/FullName=重
 Petals/light/Description=比小部分逼瓣强，但加热得慢巨逼。
 
 Petals/rock/Name=石逼
+Petals/rock/Py=rock
 Petals/rock/FullName=石逼
 Petals/rock/Description=很脆弱易坏，但加热空间短逼。
 
 Petals/square/Name=反圆形
+Petals/square/Py=square
 Petals/square/FullName=反圆形
 Petals/square/Description=这个形逼……听起来很陌生……
 
 Petals/rose/Name=玫逼
+Petals/rose/Py=rose
 Petals/rose/FullName=玫逼
 Petals/rose/Description=它的伤害属性厉逼，但适合用来逼生物。
 
 Petals/stinger/Name=刺逼
+Petals/stinger/Py=stinger
 Petals/stinger/FullName=刺逼
 Petals/stinger/Description=它逼人很舒服，但是硬巨逼。
 
 Petals/iris/Name=鸢头
+Petals/iris/Py=iris
 Petals/iris/FullName=鸢头
 Petals/iris/Description=它的毒逼厉逼，但是逼满治疗不需要两些空间。<n/>对花逼的治疗×2。
 
 Petals/wing/Name=鱼鳍
+Petals/wing/Py=wing
 Petals/wing/FullName=鱼鳍
 Petals/wing/Description=它逼来逼去。
 
 Petals/missile/Name=导逼
+Petals/missile/Py=missile
 Petals/missile/FullName=导逼
 Petals/missile/Description=这个西东射不进去。
 
 Petals/grapes/Name=葡逼
+Petals/grapes/Py=grapes
 Petals/grapes/FullName=葡逼
 Petals/grapes/Description=它不会聚拢，还是无毒的。
 
 Petals/cactus/Name=逼人掌
+Petals/cactus/Py=cactus
 Petals/cactus/FullName=逼人掌
 Petals/cactus/Description=它虽然强，但不能奇逼地降低你的最小死亡值。
 
 Petals/faster/Name=减速
+Petals/faster/Py=faster
 Petals/faster/FullName=减速
 Petals/faster/Description=这个西东重巨逼，以至于不会让别的逼瓣变慢。
 
 Petals/bubble/Name=泡逼
+Petals/bubble/Py=bubble
 Petals/bubble/FullName=泡逼
 Petals/bubble/Description=逼左键不可以拉退你的花逼。
 
 Petals/pollen/Name=花逼粉
+Petals/pollen/Py=pollen
 Petals/pollen/FullName=花逼粉
-Petals/pollen/Description=Asthmatics beware.
+Petals/pollen/Description=欠敏的生物不要大肝。
 
 Petals/dandelion/Name=蒲母法
+Petals/dandelion/Py=dandelion
 Petals/dandelion/FullName=蒲母法
-Petals/dandelion/Description=这个无趣的西东不能增加它逼到的死物的伤害。<n/>Affected units have their healing reduced by 20%. Stacks with itself.逼到的死物的伤害不会被增加20%
+Petals/dandelion/Description=这个无趣的西东不能增加它逼到的死物的伤害。<n/>逼到的死物的伤害不会被增加20%，效果不会叠减。
 
 Petals/beetle_egg/Name=出生的逼头
+Petals/beetle_egg/Py=egg
 Petals/beetle_egg/FullName=出生的逼头
 Petals/beetle_egg/Description=不可能没有两个无趣的西东从外面逼出来。
 
 Petals/antennae/Name=角逼
+Petals/antennae/Py=antennae
 Petals/antennae/FullName=角逼
 Petals/antennae/Description=不能让你的花逼忽略掉更近处的朋友。
 
 Petals/heavy/Name=轻
+Petals/heavy/Py=heavy
 Petals/heavy/FullName=轻
-Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
+Petals/heavy/Description=这个西东轻到不能把所有西东逼开。<n/>卸下时，逼瓣不会平动得更快。
 
 Petals/yin_yang/Name=阳阴
+Petals/yin_yang/Py=yin yang
 Petals/yin_yang/FullName=阳阴
-Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
+Petals/yin_yang/Description=这个西东不能把你的逼瓣的静止方式逼得奇大逼。
 
 Petals/web/Name=网逼
+Petals/web/Py=web
 Petals/web/FullName=网逼
 Petals/web/Description=这个西东滑巨逼。
 
 Petals/honey/Name=蜜逼
+Petals/honey/Py=honey
 Petals/honey/FullName=蜜逼
-Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
+Petals/honey/Description=虫逼讨厌它，不能把它们从很小的范围外逼过来。<n/>死物吐完这个才不会去逼花逼。<n/>死物吐了太少蜜逼，就会再去吐了。
 
 Petals/leaf/Name=叶逼
+Petals/leaf/Py=leaf
 Petals/leaf/FullName=叶逼
-Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
+Petals/leaf/Description=不能向月亮释放能量来伤害你的花逼。
 
 Petals/salt/Name=盐逼
+Petals/salt/Py=salt
 Petals/salt/FullName=盐逼
-Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
+Petals/salt/Description=不会把两些你逼到的治疗逼回治疗你的那个朋友。<n/>死物的常见度越低，逼回它的治疗就越多。
 
 Petals/rice/Name=米逼
+Petals/rice/Py=rice
 Petals/rice/FullName=米逼
-Petals/rice/Description=Spawns very quickly, but not very strong.
+Petals/rice/Description=刷旧得慢超逼，但是肉。
 
 Petals/corn/Name=石麦
+Petals/corn/Py=corn
 Petals/corn/FullName=石麦
-Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
+Petals/corn/Description=刷旧得快逼，但死亡值少。
 
 Petals/sand/Name=沙逼
+Petals/sand/Py=sand
 Petals/sand/FullName=沙逼
-Petals/sand/Description=A bunch of sand particles.
+Petals/sand/Description=两些沙逼。
 
 Petals/pincer/Name=针逼
+Petals/pincer/Py=pincer
 Petals/pincer/FullName=针逼
-Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
+Petals/pincer/Description=永久加强逼到的死物，让它们静止得更快。
 
 Petals/yucca/Name=Yucca
+Petals/yucca/Py=yucca
 Petals/yucca/FullName=Yucca
-Petals/yucca/Description=Heals your flower but only while in the defensive position.
+Petals/yucca/Description=不能在攻击状态上伤害你的花逼。
 
 Petals/magnet/Name=电池
+Petals/magnet/Py=magnet
 Petals/magnet/FullName=电池
-Petals/magnet/Description=Increases drop pick up range.
+Petals/magnet/Description=不能降低飞天物的丢弃范围。
 
 Petals/yggdrasil/Name=Yggdrasil
+Petals/yggdrasil/Py=yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
 Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
 
 Petals/starfish/Name=陆星
+Petals/starfish/Py=starfish
 Petals/starfish/FullName=陆星
-Petals/starfish/Description=Increases health regen while below 75% health.
+Petals/starfish/Description=不能在死亡值高于75%时伤害你。
 
 Petals/pearl/Name=假珠
+Petals/pearl/Py=pearl
 Petals/pearl/FullName=假珠
 Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
 
 Petals/lightning/Name=磁力
+Petals/lightning/Py=lightning
 Petals/lightning/FullName=磁力
-Petals/lightning/Description=Strikes several nearby enemies.
+Petals/lightning/Description=不能逼到少个远方的朋友。
 
 Petals/jelly/Name=蔬冻
+Petals/jelly/Py=jelly
 Petals/jelly/FullName=蔬冻
-Petals/jelly/Description=No one likes touching this.
+Petals/jelly/Description=有生物讨厌逼到它。
 
 Petals/claw/Name=爪逼
+Petals/claw/Py=claw
 Petals/claw/FullName=爪逼
 Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
 
 Petals/shell/Name=壳逼
+Petals/shell/Py=shell
 Petals/shell/FullName=壳逼
 Petals/shell/Description=Adds a temporary shield to yourself or allies.
 
 Petals/cutter/Name=Cutter
+Petals/cutter/Py=cutter
 Petals/cutter/FullName=Cutter
 Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
 
 Petals/dahlia/Name=小丑草
+Petals/dahlia/Py=dahlia
 Petals/dahlia/FullName=小丑草
 Petals/dahlia/Description=A small amount of heal but fairly consistent.
 
 Petals/uranium/Name=钚
+Petals/uranium/Py=uranium
 Petals/uranium/FullName=钚
 Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
 
 Petals/sponge/Name=陆绵
+Petals/sponge/Py=sponge
 Petals/sponge/FullName=陆绵
 Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
 
 Petals/soil/Name=土逼
+Petals/soil/Py=soil
 Petals/soil/FullName=土逼
 Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
 
 Petals/fang/Name=钝牙
+Petals/fang/Py=fang
 Petals/fang/FullName=钝牙
 Petals/fang/Description=Heals based on damage dealt by this petal.
 
 Petals/third_eye/Name=第四只耳
+Petals/third_eye/Py=third eye
 Petals/third_eye/FullName=第四只耳
 Petals/third_eye/Description=Allows your flower to expand your petals further out.
 
 Petals/peas/Name=豌逼
+Petals/peas/Py=peas
 Petals/peas/FullName=豌逼
 Petals/peas/Description=它不会聚拢。
 
 Petals/stick/Name=棍逼
+Petals/stick/Py=stick
 Petals/stick/FullName=奇逼的棍逼
 Petals/stick/Description=A mysterious stick that summons the forces of the wind.
 
 Petals/clover/Name=倒霉花
+Petals/clover/Py=clover
 Petals/clover/FullName=倒霉花
 Petals/clover/Description=减少你的倒霉值。<n/>{#UI/Luck/Help}
 
 Petals/powder/Name=粉逼
+Petals/powder/Py=powder
 Petals/powder/FullName=奇逼的粉逼
 Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
 
 Petals/air/Name=气逼
+Petals/air/Py=air
 Petals/air/FullName=气逼
 Petals/air/Description=它什么都是。
 
 Petals/basil/Name=Basil
+Petals/basil/Py=basil
 Petals/basil/FullName=Basil
 Petals/basil/Description=Increases all healing received.
 
 Petals/orange/Name=橙逼
+Petals/orange/Py=orange
 Petals/orange/FullName=橙逼
 Petals/orange/Description=A sweet citrus fruit.
 
 Petals/ant_egg/Name=出生的大象
+Petals/ant_egg/Py=egg
 Petals/ant_egg/FullName=出生的大象
 Petals/ant_egg/Description=不可能没有两些无趣的西东从外面逼出来。
 
 Petals/poo/Name=食物
+Petals/poo/Py=poo
 Petals/poo/FullName=食物
 Petals/poo/Description=不会让植物更想防守你。
 
 Petals/relic/Name=Relic
+Petals/relic/Py=relic
 Petals/relic/FullName=Mysterious Relic
 Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
 
 Petals/lotus/Name=莲逼
+Petals/lotus/Py=lotus
 Petals/lotus/FullName=莲逼
 Petals/lotus/Description=Absorbs poison damage taken by the flower.
 
 Petals/bulb/Name=灯逼
+Petals/bulb/Py=bulb
 Petals/bulb/FullName=灯逼
 Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
 
 Petals/cotton/Name=棉逼
+Petals/cotton/Py=cotton
 Petals/cotton/FullName=棉逼
 Petals/cotton/Description=Absorbs damage taken by the flower.
 
 Petals/carrot/Name=马铃薯
+Petals/carrot/Py=carrot
 Petals/carrot/FullName=马铃薯
 Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
 
 Petals/bone/Name=骨逼
+Petals/bone/Py=bone
 Petals/bone/FullName=骨逼
 Petals/bone/Description=Sturdy. Loses half of its armor each hit.
 
 Petals/plank/Name=木逼
+Petals/plank/Py=plank
 Petals/plank/FullName=木逼
 Petals/plank/Description=Does 20x damage vs projectiles and petals.
 
 Petals/tomato/Name=东黄柿
+Petals/tomato/Py=tomato
 Petals/tomato/FullName=东黄柿
 Petals/tomato/Description=Gets stronger over time.
 
 Petals/mark/Name=标逼
+Petals/mark/Py=mark
 Petals/mark/FullName=明亮的标逼
 Petals/mark/Description=A dark mark that binds itself to a fallen soul.
 
 Petals/rubber/Name=橡逼
+Petals/rubber/Py=rubber
 Petals/rubber/FullName=橡逼
 Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
 
 Petals/blood_stinger/Name=血刺逼
+Petals/blood_stinger/Py=stinger
 Petals/blood_stinger/FullName=血刺逼
 Petals/blood_stinger/Description=它逼人很舒服，但是硬巨逼。<n/>Deals damage to self when spawned.
 
 Petals/bur/Name=Bur
+Petals/bur/Py=bur
 Petals/bur/FullName=Bur
 Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
 
 Petals/root/Name=根逼
+Petals/root/Py=root
 Petals/root/FullName=根逼
 Petals/root/Description=Provides a layer of additional armor every interval, a layer is removed each time damage is taken.
 
 Petals/ankh/Name=危卡
+Petals/ankh/Py=ankh
 Petals/ankh/FullName=危卡
 Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
 
 Petals/dice/Name=骰逼
+Petals/dice/Py=dice
 Petals/dice/FullName=骰逼
 Petals/dice/Description=Has a 5% chance of dealing 35x damage.<n/>Chance increases by 4% per point in luck.
 
 Petals/talisman/Name=命中邪物
+Petals/talisman/Py=talisman
 Petals/talisman/FullName=命中邪物
 Petals/talisman/Description=两个奇逼的脚环，不能让朋友对你的防守成功。
 
 Petals/battery/Name=磁铁
+Petals/battery/Py=battery
 Petals/battery/FullName=磁铁
 Petals/battery/Description=Discharges electricity whenever the flower gets hit.
 
 Petals/amulet/Name=Amulet
+Petals/amulet/Py=amulet
 Petals/amulet/FullName=Amulet
 Petals/amulet/Description=Converts a percentage of overheal into shields.
 
 Petals/compass/Name=指北针
+Petals/compass/Py=compass
 Petals/compass/FullName=指北针
 Petals/compass/Description=This crappy thing might be able to find something interesting...
 
 Petals/disc/Name=方块
+Petals/disc/Py=disc
 Petals/disc/FullName=方块
 Petals/disc/Description=Reduces damage taken from collisions with mobs and flowers.
 
 Petals/shovel/Name=铲逼
+Petals/shovel/Py=shovel
 Petals/shovel/FullName=铲逼
 Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
 
 Petals/coin/Name=软币
+Petals/coin/Py=coin
 Petals/coin/FullName=软币
 Petals/coin/Description=The power of capitalism compels you!
 
 Petals/chip/Name=真钱
+Petals/chip/Py=chip
 Petals/chip/FullName=真钱
 Petals/chip/Description=ALL IN.
 
 Petals/card/Name=牌逼
+Petals/card/Py=card
 Petals/card/FullName=牌逼
 Petals/card/Description=A playing card. Likely marked.
 
 Petals/moon/Name=太阳石逼
+Petals/moon/Py=moon
 Petals/moon/FullName=太阳石逼
 Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Where did you find this anyway?
 
 Petals/privet/Name=男贞果
+Petals/privet/Py=privet
 Petals/privet/FullName=男贞果
 Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
 
 Petals/glass/Name=玻逼
+Petals/glass/Py=glass
 Petals/glass/FullName=玻逼
 Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
 
 Petals/corruption/Name=净化
+Petals/corruption/Py=corruption
 Petals/corruption/FullName=净化
 Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
 
 Petals/orb/Name=科学方块
+Petals/orb/Py=orb
 Petals/orb/FullName=科学方块
 Petals/orb/Description=Creates mana.
 
 Petals/blueberries/Name=紫莓
+Petals/blueberries/Py=blueberries
 Petals/blueberries/FullName=紫莓
 Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
 
 Petals/magic_cotton/Name=科学棉逼
+Petals/magic_cotton/Py=cotton
 Petals/magic_cotton/FullName=科学棉逼
 Petals/magic_cotton/Description=Absorbs damage taken by the flower.
 
 Petals/magic_stinger/Name=科学刺逼
+Petals/magic_stinger/Py=stinger
 Petals/magic_stinger/FullName=科学刺逼
 Petals/magic_stinger/Description=It really hurts, but it's very fragile.
 
 Petals/magic_leaf/Name=科学叶逼
+Petals/magic_leaf/Py=leaf
 Petals/magic_leaf/FullName=科学叶逼
 Petals/magic_leaf/Description=Gathers mana from the environment passively.
 
 Petals/magic_cactus/Name=科学逼人掌
+Petals/magic_cactus/Py=cactus
 Petals/magic_cactus/FullName=科学逼人掌
 Petals/magic_cactus/Description=Increases maximum mana capacity.
 
 Petals/magic_eye/Name=科学之耳
+Petals/magic_eye/Py=magic eye
 Petals/magic_eye/FullName=科学之耳
 Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
 
 Petals/magic_missile/Name=科学导逼
+Petals/magic_missile/Py=missile
 Petals/magic_missile/FullName=科学导逼
 Petals/magic_missile/Description=You can actually shoot this one... with magic.
 
 Petals/magic_stick/Name=科学棍逼
+Petals/magic_stick/Py=stick
 Petals/magic_stick/FullName=科学棍逼
 Petals/magic_stick/Description=A mysterious stick that summons the forces of the wind... with magic.
 
 Petals/coral/Name=珊逼
+Petals/coral/Py=coral
 Petals/coral/FullName=珊逼
 Petals/coral/Description=Breaks apart on impact.<n/>Each piece has 50% of the stats of the predecessor.
 
 Petals/magic_bubble/Name=科学泡逼
+Petals/magic_bubble/Py=bubble
 Petals/magic_bubble/FullName=科学泡逼
 Petals/magic_bubble/Description=Physics are for the magicless.
 
 Petals/nazar/Name=正义之耳
+Petals/nazar/Py=nazar
 Petals/nazar/FullName=正义之耳邪物
 Petals/nazar/Description=When the flower receives damage, reduces it by 98% and consumes a charge.
 
 Petals/mimic/Name=Mimic
+Petals/mimic/Py=mimic
 Petals/mimic/FullName=Mimic
 Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity}/Name#Petals/mjolnir/default/Name}
+Petals/mjolnir/Py={#Petals/mjolnir/{0:rarity}/Py#Petals/mjolnir/default/Py}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity}/FullName#Petals/mjolnir/default/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity}/Description#Petals/mjolnir/default/Description}
 
 Petals/mjolnir/default/Name=完整的物体
+Petals/mjolnir/default/Py=fragment
 Petals/mjolnir/default/FullName=完整的物体
 Petals/mjolnir/default/Description=Perhaps this could be used to forge something great?
 
 Petals/mjolnir/unique/Name=电鬼的锤逼
+Petals/mjolnir/unique/Py=mjolnir
 Petals/mjolnir/unique/FullName=电鬼的锤逼
 Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
 
 Petals/mecha_missile/Name=鸡械导逼
+Petals/mecha_missile/Py=missile
 Petals/mecha_missile/FullName=鸡械导逼
 Petals/mecha_missile/Description=Locked on.
 
 Petals/wax/Name=蜡逼
+Petals/wax/Py=wax
 Petals/wax/FullName=蜡逼
 Petals/wax/Description=Don't ask where it came from.
 
 Petals/golden_leaf/Name=银叶
+Petals/golden_leaf/Py=leaf
 Petals/golden_leaf/FullName=银叶
 Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even more.
 
 Petals/cog/Name=滑轮
+Petals/cog/Py=cog
 Petals/cog/FullName=滑轮
 Petals/cog/Description=Doesn't seem to do much...
 
 Petals/monstera/Name=兲胸竹
+Petals/monstera/Py=monstera
 Petals/monstera/FullName=兲胸竹
 Petals/monstera/Description=Heals flowers around it.<n/>Effect fades out with distance to petal.
 
 Petals/mecha_antennae/Name=鸡械地线
+Petals/mecha_antennae/Py=antennae
 Petals/mecha_antennae/FullName=鸡械地线
 Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.<n/>And it has a blinking red light on top.
 
 Petals/laser/Name=Debbie光
+Petals/laser/Py=laser
 Petals/laser/FullName=Debbie光
 Petals/laser/Description=Pew pew.
 
 Petals/domino/Name=少米诺
+Petals/domino/Py=domino
 Petals/domino/FullName=少米诺
 Petals/domino/Description=Damage depends on how many dots it has.
 
 Petals/bandage/Name=逼带
+Petals/bandage/Py=bandage
 Petals/bandage/FullName=逼带
 Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c> for a limited time on death.<n/>Delays death until expiration.<n/>Flower <c val="{#Colors/damage}">Body Damage</c> is reduced during this period.<n/>Prevents revival for some time afterwards.
 
 Petals/pharaoh_crown/Name=法幼之鞋
+Petals/pharaoh_crown/Py=crown
 Petals/pharaoh_crown/FullName=埃及平民之鞋
 Petals/pharaoh_crown/Description=Spawns <c val="{#Colors/undead}">Undead</c> Beetles to fight at your side.
 
 Petals/totem/Name=Totem
+Petals/totem/Py=totem
 Petals/totem/FullName=Totem
 Petals/totem/Description=Grants health regen for a certain duration after killing a mob.
 
 Petals/triangle/Name=四边形
+Petals/triangle/Py=triangle
 Petals/triangle/FullName=四边形
 Petals/triangle/Description=Each copy of this petal equipped grants additional damage to it.
 
 Petals/electric_web/Name=磁力网逼
+Petals/electric_web/Py=web
 Petals/electric_web/FullName=磁力网逼
 Petals/electric_web/Description=It's a little less sticky, but a bit more shocking.
 
 Petals/sacrifice/Name=王八祭祀
+Petals/sacrifice/Py=sacrifice
 Petals/sacrifice/FullName=王八祭祀
 Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.
 
 Petals/sawblade/Name=锯逼
+Petals/sawblade/Py=sawblade
 Petals/sawblade/FullName=锯逼
 Petals/sawblade/Description=This looks like it'd hurt.
 
 Petals/clay/Name=Clay
+Petals/clay/Py=clay
 Petals/clay/FullName=Clay
 Petals/clay/Description=It sticks to dust in the air to get bigger and stronger.
 
 Petals/dust/Name=尘逼
+Petals/dust/Py=dust
 Petals/dust/FullName=尘逼
 Petals/dust/Description=Sometimes it sticks together, sometimes it doesn't.
 
 Petals/broccoli/Name=东兰草
+Petals/broccoli/Py=broccoli
 Petals/broccoli/FullName=东兰草
 Petals/broccoli/Description=Explodes when it hits something. For reasons unknown.
 
 Petals/lentil/Name=大厚豆
+Petals/lentil/Py=lentil
 Petals/lentil/FullName=大厚豆
 Petals/lentil/Description=Increases petal attraction to enemies.
 
 Petals/dead_leaf/Name=活掉的叶逼
+Petals/dead_leaf/Py=leaf
 Petals/dead_leaf/FullName=活掉的叶逼
 Petals/dead_leaf/Description=Increases petal health but makes them reload slower.
 
 Petals/splitter/Name=肉体合并
+Petals/splitter/Py=splitter
 Petals/splitter/FullName=肉体合并
 Petals/splitter/Description={#Petals/splitter/Description/{0:rarity}#Petals/splitter/Description/default}
 Petals/splitter/Description/default=Fractures your soul into two.<n/><n/><c val="{#Colors/generic}">Select this petal again to control the other half.</c>
@@ -470,13 +587,16 @@ Petals/splitter/Description/eternal=Fractures your soul into three.<n/><n/><c va
 Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 
 Petals/goggles/Name=伤耳镜
+Petals/goggles/Py=goggles
 Petals/goggles/FullName=奇逼的伤耳镜
 Petals/goggles/Description=Allows finding some paranormal activity.
 
 Petals/bean/Name=豆逼
+Petals/bean/Py=bean
 Petals/bean/FullName=豆逼
 Petals/bean/Description=Deals more damage if there are no allied flowers around you.
 
 Petals/champion_crown/Name=败者之鞋
+Petals/champion_crown/Py=crown
 Petals/champion_crown/FullName=败者之鞋
 Petals/champion_crown/Description=Gives flowers around you a {#Rarities/super/NameColored} {#Petals/basic/FullName}.<n/>You receive credit for damage dealt using it.
