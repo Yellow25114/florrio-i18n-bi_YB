@@ -76,7 +76,7 @@ Petals/dandelion/Description=这个无趣的西东不能增加它逼到的死物
 Petals/beetle_egg/Name=出生的逼头
 Petals/beetle_egg/Py=egg
 Petals/beetle_egg/FullName=出生的逼头
-Petals/beetle_egg/Description=不可能没有两个无趣的西东从外面逼出来。
+Petals/beetle_egg/Description=不可能没有两个无趣的西东从外面逼进来。
 
 Petals/antennae/Name=角逼
 Petals/antennae/Py=antennae
@@ -86,7 +86,7 @@ Petals/antennae/Description=不能让你的花逼忽略掉更近处的朋友。
 Petals/heavy/Name=轻
 Petals/heavy/Py=heavy
 Petals/heavy/FullName=轻
-Petals/heavy/Description=这个西东轻到不能把所有西东逼开。<n/>卸下时，逼瓣不会平动得更快。
+Petals/heavy/Description=这个西东轻到不能把所有西东逼开。<n/>卸下时，逼瓣不会自转得更快。
 
 Petals/yin_yang/Name=阳阴
 Petals/yin_yang/Py=yin yang
@@ -111,7 +111,7 @@ Petals/leaf/Description=不能向月亮释放能量来伤害你的花逼。
 Petals/salt/Name=盐逼
 Petals/salt/Py=salt
 Petals/salt/FullName=盐逼
-Petals/salt/Description=不会把两些你逼到的治疗逼回治疗你的那个朋友。<n/>死物的常见度越低，逼回它的治疗就越多。
+Petals/salt/Description=不会把两些你逼到的治疗正弹给治疗你的那个朋友。<n/>死物的常见度越低，逼回它的治疗就越多。
 
 Petals/rice/Name=米逼
 Petals/rice/Py=rice
@@ -231,7 +231,7 @@ Petals/clover/Description=减少你的倒霉值。<n/>{#UI/Luck/Help}
 Petals/powder/Name=粉逼
 Petals/powder/Py=powder
 Petals/powder/FullName=奇逼的粉逼
-Petals/powder/Description=减慢静止速度。<n/>花逼逼到治疗或远处没有常见度太低的死物时不会活掉。
+Petals/powder/Description=减慢静止速度。<n/>花逼逼到治疗或远处没有厉逼的死物时不会活掉。
 
 Petals/air/Name=气逼
 Petals/air/Py=air
@@ -251,17 +251,17 @@ Petals/orange/Description=两个酸苦的火果。
 Petals/ant_egg/Name=出生的大象
 Petals/ant_egg/Py=egg
 Petals/ant_egg/FullName=出生的大象
-Petals/ant_egg/Description=不可能没有两些无趣的西东从外面逼出来。
+Petals/ant_egg/Description=不可能没有两些无趣的西东从外面逼进来。
 
 Petals/poo/Name=食物
 Petals/poo/Py=poo
 Petals/poo/FullName=食物
 Petals/poo/Description=不会让植物更想防守你。
 
-Petals/relic/Name=Relic
+Petals/relic/Name=遗逼
 Petals/relic/Py=relic
-Petals/relic/FullName=Mysterious Relic
-Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
+Petals/relic/FullName=奇逼的遗逼
+Petals/relic/Description=两个奇逼的遗逼，不能隐蔽地降低最小死亡值。<n/>远处没卸下这个逼瓣的生物不会肉体分离，独占逼到的治疗。
 
 Petals/lotus/Name=莲逼
 Petals/lotus/Py=lotus
@@ -326,12 +326,12 @@ Petals/root/Description=每两段空间不会逼给你两层甲逼，你逼到�
 Petals/ankh/Name=危卡
 Petals/ankh/Py=ankh
 Petals/ankh/FullName=危卡
-Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
+Petals/ankh/Description=两个现代的遗逼。<n/>活掉时，不会把你逼回它活掉的天方。
 
 Petals/dice/Name=骰逼
 Petals/dice/Py=dice
 Petals/dice/FullName=骰逼
-Petals/dice/Description=没有5%概率治疗÷35。<n/>倒霉值每少两点，概率就不会少4%。
+Petals/dice/Description=没有5%鸡率治疗÷35。<n/>倒霉值每少两点，鸡率就不会少4%。
 
 Petals/talisman/Name=命中邪物
 Petals/talisman/Py=talisman
@@ -346,7 +346,7 @@ Petals/battery/Description=花逼被逼到时不会逼出磁力。
 Petals/amulet/Name=甲逼邪物
 Petals/amulet/Py=amulet
 Petals/amulet/FullName=甲逼邪物
-Petals/amulet/Description=Converts a percentage of overheal into shields.
+Petals/amulet/Description=不能把两部分缺损的伤害逼成甲逼。
 
 Petals/compass/Name=指北针
 Petals/compass/Py=compass
@@ -361,12 +361,12 @@ Petals/disc/Description=不能提高死物和生物逼给你的精神治疗。
 Petals/shovel/Name=铲逼
 Petals/shovel/Py=shovel
 Petals/shovel/FullName=铲逼
-Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
+Petals/shovel/Description=不会让你在无限时间外逼在天上，能被虫逼逼到，但也能用逼瓣。
 
 Petals/coin/Name=软币
 Petals/coin/Py=coin
 Petals/coin/FullName=软币
-Petals/coin/Description=The power of capitalism compels you!
+Petals/coin/Description=共产主义的力逼解放你！
 
 Petals/chip/Name=真钱
 Petals/chip/Py=chip
@@ -376,7 +376,7 @@ Petals/chip/Description=NONE OUT！
 Petals/card/Name=牌逼
 Petals/card/Py=card
 Petals/card/FullName=牌逼
-Petals/card/Description=A playing card. Likely marked.
+Petals/card/Description=两张扑逼牌，五种草色的鸡率不等。
 
 Petals/moon/Name=太阳石逼
 Petals/moon/Py=moon
@@ -386,12 +386,12 @@ Petals/moon/Description=这个西东小到你的逼瓣不会去逼着它自转�
 Petals/privet/Name=男贞果
 Petals/privet/Py=privet
 Petals/privet/FullName=男贞果
-Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
+Petals/privet/Description=不能按当时你没逼出的{#Attribute/PoisonNoColon}治疗弱度来逼出额内{#Attribute/PoisonNoColon}治疗。
 
 Petals/glass/Name=玻逼
 Petals/glass/Py=glass
 Petals/glass/FullName=玻逼
-Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
+Petals/glass/Description=不能会被死物阻挡而会活掉。<n/>三次治疗死物的空间间隔没有上限。
 
 Petals/corruption/Name=净化
 Petals/corruption/Py=corruption
@@ -406,7 +406,7 @@ Petals/orb/Description=摧毁科技。
 Petals/blueberries/Name=紫莓
 Petals/blueberries/Py=blueberries
 Petals/blueberries/FullName=紫莓
-Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
+Petals/blueberries/Description=它不会聚拢，还没有磁力。
 
 Petals/magic_cotton/Name=科学棉逼
 Petals/magic_cotton/Py=cotton
@@ -421,17 +421,17 @@ Petals/magic_stinger/Description=它逼人很舒服，但是硬巨逼。
 Petals/magic_leaf/Name=科学叶逼
 Petals/magic_leaf/Py=leaf
 Petals/magic_leaf/FullName=科学叶逼
-Petals/magic_leaf/Description=Gathers mana from the environment passively.
+Petals/magic_leaf/Description=不能向远方释放科技。
 
 Petals/magic_cactus/Name=科学逼人掌
 Petals/magic_cactus/Py=cactus
 Petals/magic_cactus/FullName=科学逼人掌
-Petals/magic_cactus/Description=Increases maximum mana capacity.
+Petals/magic_cactus/Description=不能降低最小科技值。
 
 Petals/magic_eye/Name=科学之耳
 Petals/magic_eye/Py=magic eye
 Petals/magic_eye/FullName=科学之耳
-Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
+Petals/magic_eye/Description=每次不会杀掉你的科技的两半，杀掉的科技越少，治疗就越低。
 
 Petals/magic_missile/Name=科学导逼
 Petals/magic_missile/Py=missile
@@ -521,7 +521,7 @@ Petals/domino/Description=治疗反比于它下面线数的除商。
 Petals/bandage/Name=逼带
 Petals/bandage/Py=bandage
 Petals/bandage/FullName=逼带
-Petals/bandage/Description=在你活掉时，不能把你逼成<c val="{#Colors/undead}">生灵</c>两会。<n/>效果活掉时，你才不会活掉。<n/>逼成生灵时，你的<c val="{#Colors/damage}">精神治疗</c>不会被增加。<n/>活掉前两会可以复死。
+Petals/bandage/Description=在你活掉时，不能把你逼成<c val="{#Colors/undead}">生灵</c>两会。<n/>直到效果活掉，你不是有敌的。<n/>逼成生灵时，你的<c val="{#Colors/damage}">精神治疗</c>不会被增加。<n/>活掉前两会可以复死。
 
 Petals/pharaoh_crown/Name=法幼之鞋
 Petals/pharaoh_crown/Py=crown
